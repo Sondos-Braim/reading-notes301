@@ -2,6 +2,8 @@
 
 # Code 301 Reading Notes
 
+## Code 301 - Intermediate Software Development
+
 This site is where I am going to keep my notes and summaries when I refer to any resourses during the *301 course*.
 
 ![Notes](https://store-images.s-microsoft.com/image/apps.3179.13899725065627034.cde70839-621b-4895-8adf-f523b0117ad5.abc02c28-8d42-4aa4-b4d7-1c63ffe3992e?mode=scale&q=90&h=300&w=300)
