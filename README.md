@@ -12,7 +12,7 @@ This site is where I am going to keep my notes and summaries when I refer to any
 
  | Content      | Description
 ------------      | ------------
-*[read1](https://sondos-braim.github.io/reading-notes301/class-01)* | 
+*[read1](https://sondos-braim.github.io/reading-notes301/read01)* | SMACSS and Responsive Web Design
 *[read2](https://sondos-braim.github.io/reading-notes301/read02)* | 
 *[read3](https://sondos-braim.github.io/reading-notes301/read03)* | 
 *[read4](https://sondos-braim.github.io/reading-notes301/read04)* | 
