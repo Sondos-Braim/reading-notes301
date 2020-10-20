@@ -13,9 +13,9 @@ This site is where I am going to keep my notes and summaries when I refer to any
  | Content      | Description
 ------------      | ------------
 *[read1](https://sondos-braim.github.io/reading-notes301/read01)* | SMACSS and Responsive Web Design
-*[read2](https://sondos-braim.github.io/reading-notes301/read02)* | 
-*[read3](https://sondos-braim.github.io/reading-notes301/read03)* | 
-*[read4](https://sondos-braim.github.io/reading-notes301/read04)* | 
+*[read2](https://sondos-braim.github.io/reading-notes301/read02)* | jQurey
+*[read3](https://sondos-braim.github.io/reading-notes301/read03)* | Flexbox
+*[read4](https://sondos-braim.github.io/reading-notes301/read04)* | Regular Expressions
 *[read5](https://sondos-braim.github.io/reading-notes301/read05)* | 
 *[read6](https://sondos-braim.github.io/reading-notes301/read06)* | 
 *[read7](https://sondos-braim.github.io/reading-notes301/read07)* |
