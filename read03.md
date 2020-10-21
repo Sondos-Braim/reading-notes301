@@ -28,4 +28,6 @@ A flexed item can be bigger by giving it more than one space. You can also shrin
 
 If you don’t want all of the items to be on the same line you can use `flex-wrap`.
 
+![flex-box](flex-box.png)
+
 
