@@ -16,7 +16,7 @@ This site is where I am going to keep my notes and summaries when I refer to any
 *[read2](https://sondos-braim.github.io/reading-notes301/read02)* | jQurey
 *[read3](https://sondos-braim.github.io/reading-notes301/read03)* | Flexbox
 *[read4](https://sondos-braim.github.io/reading-notes301/read04)* | Regular Expressions
-*[read5](https://sondos-braim.github.io/reading-notes301/read05)* | 
+*[read5](https://sondos-braim.github.io/reading-notes301/read05)* | Heroku
 *[read6](https://sondos-braim.github.io/reading-notes301/read06)* | 
 *[read7](https://sondos-braim.github.io/reading-notes301/read07)* |
 *[read8](https://sondos-braim.github.io/reading-notes301/read08)* |
