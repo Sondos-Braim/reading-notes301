@@ -19,7 +19,7 @@ This site is where I am going to keep my notes and summaries when I refer to any
 *[read5](https://sondos-braim.github.io/reading-notes301/read05)* | Heroku
 *[read6](https://sondos-braim.github.io/reading-notes301/read06)* | Node.js
 *[read7](https://sondos-braim.github.io/reading-notes301/read07)* |google teams
-*[read8](https://sondos-braim.github.io/reading-notes301/read08)* |
+*[read8](https://sondos-braim.github.io/reading-notes301/read08)* |SQL database
 *[read9](https://sondos-braim.github.io/reading-notes301/read09)* | 
 *[read10](https://sondos-braim.github.io/reading-notes301/read10)* | 
 *[read11](https://sondos-braim.github.io/reading-notes301/read11)* | 
