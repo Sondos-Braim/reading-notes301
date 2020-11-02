@@ -24,7 +24,7 @@ This site is where I am going to keep my notes and summaries when I refer to any
 *[read10](https://sondos-braim.github.io/reading-notes301/read10)* | Call Stack
 *[read11](https://sondos-braim.github.io/reading-notes301/read11)* | EJS
 *[read12](https://sondos-braim.github.io/reading-notes301/read12)* | EJS Partials
-*[read13](https://sondos-braim.github.io/reading-notes301/read13)* | 
+*[read13](https://sondos-braim.github.io/reading-notes301/read13)* | Sending form data
 *[read14a](https://sondos-braim.github.io/reading-notes301/read14a)* | 
 *[read14b](https://sondos-braim.github.io/reading-notes301/read14b)* |
 
