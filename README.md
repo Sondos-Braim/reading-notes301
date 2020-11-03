@@ -25,8 +25,8 @@ This site is where I am going to keep my notes and summaries when I refer to any
 *[read11](https://sondos-braim.github.io/reading-notes301/read11)* | EJS
 *[read12](https://sondos-braim.github.io/reading-notes301/read12)* | EJS Partials
 *[read13](https://sondos-braim.github.io/reading-notes301/read13)* | Sending form data
-*[read14a](https://sondos-braim.github.io/reading-notes301/read14a)* | 
-*[read15](https://sondos-braim.github.io/reading-notes301/read14b)* |
+*[read14a](https://sondos-braim.github.io/reading-notes301/read14)* | Database Normalization
+*[read15](https://sondos-braim.github.io/reading-notes301/read15)* |
 
 
 [This is my GitHub Profile](https://github.com/Sondos-Braim) 
